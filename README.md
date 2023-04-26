@@ -20,7 +20,7 @@
   This app requires packages such as dotenv, express.js, mysql, and sequelize
 
   ## Demo
-  Video Link:
+  Video Link: https://drive.google.com/file/d/1x8k8LRW3qi-0J2yeURGTtr9yQB2b99Ay/view
   
 
   ## License
