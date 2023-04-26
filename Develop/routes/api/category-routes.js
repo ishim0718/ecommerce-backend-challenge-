@@ -11,7 +11,7 @@ router.get('/', async (req, res) => {
   });
     res.json(categoryProduct);
 } catch (err) {
-    res.json(500).json(err);
+    res.json(err);
 }
     // be sure to include its associated Products
 });
